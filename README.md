@@ -3,7 +3,7 @@
 > contact: lreyes@udesa.edu.ar
 
 ### Education
-* Master in Finance, Universidad de San Andrés, Argentina (2018, thesis pending).
+* Master in Finance, Universidad de San Andrés, Argentina (2018, thesis pending: developing a decentralized financial system called Canvas).
 * Lawyer, Universidad de San Andrés, Argentina (2012-2017). Undergraduate thesis "Habeas data and credit protection". An analysis of credit score data regulation under game theory perspective.
 
 ### Work Experience
@@ -25,3 +25,8 @@ Tort, Family Heritage and Bankruptcy matters.
 
 * Auxiliary to Professor Dr. Martin F. Böhmer (August - December 2014).
 >Class “General Theory of Law” by Dr. Martín F. at Universidad de San Andrés, Law School.
+
+# Interests
+> Rugby & Cinema. 
+> Be part of projects that offer challenges to be creative related to finance, law regulation, web development and games.
+> Currently learning Rust.
