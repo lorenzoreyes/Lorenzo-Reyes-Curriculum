@@ -8,9 +8,9 @@
 
 ### Work Experience
 * Quantitative Analyst at First Capital CFA Argentina (since April 2021).
-> Translate financial tasks to python projects. Portfolio Management = Build + Handle the Maintenance of Portfolios (8 Markets).
+> Translate financial tasks to python projects. Portfolio Management = Build + Handle the Maintenance of Portfolios (GSPC, FTSE, NIKKEI, Shanghai, Bovespa, Australia, Cedears Argentina & Canada).
 
-> Automate "daily-office-bureacracy" tasks such as: Massive personalized mails makers, Operations Notifier to each client, pdf Reports Markets Analysis & Data reformat.
+> Automate "daily-office-bureacracy" tasks such as: Massive personalized mails makers, Operations Notifier to each client, pdf Reports, Markets Analysis & Data reformat.
 
 * NOR Operator MATBA Rofex (September 2020- April 2021). Market maker operator, incharge to operate in order to provide liquidity to Matba Rofex Market Instruments.
 
@@ -34,4 +34,4 @@ Tort, Family Heritage and Bankruptcy matters.
 # Interests
 > Rugby & Cinema. 
 > Be part of projects that offer challenges to be creative related to finance, law regulation, web development and games.
-> Currently learning Rust.
+> Currently learning Rust for full-stack web development.
