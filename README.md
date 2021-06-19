@@ -8,7 +8,7 @@
 
 ### Work Experience
 * Quantitative Analyst at First Capital CFA Argentina (since April 2021).
-> Translate financial tasks to python projects. Portfolio Management = Build + Handle the Maintenance of Portfolios (GSPC, FTSE, NIKKEI, Shanghai, Bovespa, Australia, Cedears Argentina & Canada).
+> Translate financial tasks to python and full-stack projects. Portfolio Management (Build + Handle the Maintenance of Portfolios). Market analysis & draft reports. Manage emails to clients.
 
 > Automate "daily-office-bureacracy" tasks such as: Massive personalized mails makers, Operations Notifier to each client, pdf Reports, Markets Analysis & Data reformat.
 
